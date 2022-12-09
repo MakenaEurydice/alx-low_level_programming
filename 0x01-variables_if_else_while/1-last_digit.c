@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - Entry
+ * main - main block
  * Description: Get a random number and print the number
  * and if it is positive, negative, or zero
  *

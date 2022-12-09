@@ -2,6 +2,7 @@
 /**
  * main - main block
  * Description: Print all possible combinations of two digits.
+ * Return: 0
  */
 int main(void)
 {
@@ -31,5 +32,4 @@ int main(void)
 
 	return (0);
 }
-		
 			

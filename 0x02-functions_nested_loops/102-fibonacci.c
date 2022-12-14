@@ -8,7 +8,7 @@
 int main(void)
 {
 	int i;
-	long int fibonnacci[50];
+	long int fibonacci[50];
 
 	fibonacci[0] = 1;
 	fibonacci[1] = 2;

@@ -3,8 +3,7 @@
 /**
  * _isalpha: checks for alphabetic character
  * @c: The character to be checked
- * Description: function returns 1 if the character is a
- * letter, lowercase or uppercase.
+ * Description: a function that checks for alphabetic character.
  *  
  * Return: 1 if c is a letter, lowercase or uppercase and 0 otherwise
  */

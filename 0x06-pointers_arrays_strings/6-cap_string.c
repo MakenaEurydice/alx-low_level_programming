@@ -5,7 +5,7 @@
  * @str : string pointer
  * Return: Always 0.
  */
-char *cap_string(char *)
+char *cap_string(char *str)
 {
 	int a;
 
